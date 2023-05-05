@@ -18,7 +18,7 @@
 ## bilibili
 [解除地区限制](https://github.com/yujincheng08/BiliRoaming)
 
-#AI
+# AI
 ## Claude
 [ChatGPT竞品](https://www.anthropic.com/claude-in-slack)
 
