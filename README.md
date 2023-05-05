@@ -10,6 +10,10 @@
 ## LOL换肤
 [R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin)
 
+## LOL 怼喷子
+[祖安助手](https://github.com/liuke-wuhan/ZuAnBot)
+
+
 # 动漫
 ## bilibili
 [解除地区限制](https://github.com/yujincheng08/BiliRoaming)
