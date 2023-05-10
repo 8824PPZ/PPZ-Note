@@ -22,5 +22,8 @@
 ## Claude
 [ChatGPT竞品](https://www.anthropic.com/claude-in-slack)
 
+# 浏览器插件
+## 广告拦截
+[ABP](https://adblockplus.org/)
 
 
