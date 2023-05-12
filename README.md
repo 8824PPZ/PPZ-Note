@@ -13,6 +13,10 @@
 ## LOL 怼喷子
 [祖安助手](https://github.com/liuke-wuhan/ZuAnBot)
 
+## LOL 天赋出装助手
+[ChampR](http://https://github.com/cangzhang/champ-r)
+
+
 
 # 动漫
 ## bilibili
