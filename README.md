@@ -33,5 +33,8 @@ https://github.com/nilaoda/BBDown
 # 浏览器插件
 ## 广告拦截
 [ABP](https://adblockplus.org/)
+# 手机拦截开屏广告
+https://github.com/gkd-kit/gkd
+
 
 
