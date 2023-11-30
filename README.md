@@ -36,7 +36,8 @@ https://github.com/nilaoda/BBDown
 # 手机拦截开屏广告
 https://github.com/gkd-kit/gkd
 # YouTube 去除广告
-https://greasyfork.org/en/scripts/459541-youtube%E5%8E%BB%E5%B9%BF%E5%91%8A-youtube-ad-blocker
+https://greasyfork.org/en/scripts/459541-youtube%E5%8E%BB%E5%B9%BF%E5%91%8A-youtube-ad-blocker  
+https://github.com/TheRealJoelmatic/RemoveAdblockThing
 
 
 
